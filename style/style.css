@@ -1,0 +1,65 @@
+body{
+    background-color: white;
+    text-align: center;
+}
+.container{
+    margin-top:  200px;
+}
+.share{
+    position: relative;
+    right: 200px;
+}
+.sharing{
+    position: relative;
+    right: 310px;
+    top: 53px;
+}
+
+.line{
+    width: 70px;
+    height: 47px;
+    border-bottom: 1px solid black;
+    transform: rotate(45deg);
+    position: relative;
+    left: 420px;
+    bottom: 10px;
+  
+}
+.line1{
+    width: 70px;
+    height: 47px;
+    border-bottom: 1px solid black;
+
+    position: relative;
+    left: 420px;
+    bottom: 130px;
+  
+}
+.line2{
+    width: 70px;
+    height: 47px;
+    border-bottom: 1px solid black;
+    transform: rotate(-45deg);
+    position: relative;
+    left: 390px;
+    bottom: 240px;
+  
+}
+.twitter{
+    color: #1DA1F2;
+    position: relative;
+    bottom: 200px;
+    left: 27px;
+}
+.facebook{
+    color: #4267B2;
+    position: relative;
+    bottom: 320px;
+    right: 20px;
+}
+.instagram{
+    color:  #FD1D1D;
+    position: relative;
+    bottom: 80px;
+    right: 65px;
+}
